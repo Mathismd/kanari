@@ -4,6 +4,8 @@ Peser, comprendre et réduire le gaspillage alimentaire dans les cantines scolai
 
 *Le kanari est la marmite en terre des cuisines antillaises.*
 
+**Démo en ligne :** https://mathismd.github.io/kanari/ (données fictives)
+
 Kanari remplace le projet « EcoGaspi 972 ». Les choix qui diffèrent du cahier des charges initial sont expliqués dans [`docs/cahier-des-charges.md`](docs/cahier-des-charges.md).
 
 ## Ce que fait la première version
