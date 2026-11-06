@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@source "../";
 
 /* Palette du cahier des charges, complétée d'un signal ambre pour les alertes. */
 @theme {
